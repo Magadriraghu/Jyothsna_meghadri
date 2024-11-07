@@ -10,9 +10,9 @@
   <li><p style="font-size:15px">Developing an <strong>AI Chatbot</strong>: Recently completed a project to create an AI chatbot using Python, APIs, and generative AI techniques.</p></li>
   
 </ul>
-<h4> style="color:blue"> What I learnt upto now</h4>
+<h4 style="color:blue">🌱 What I learnt upto now</h4>
 <ul>
-  <li><p style="font-size:15px">Proficien in using  <strong>Python and their libraries and excel for statistical analysis and data manipulation.</strong>:Acquired comprehensive skills in data analysis, including data cleaning, transformation, and visualization to extract meaningful insights from raw data.Experienced in working with large datasets to identify trends, patterns, and outliers, enabling data-driven decision-making. Developed a solid foundation in analyzing various types of data and presenting findings through clear, actionable reports and visualizations.</p></li>
+  <li><p style="font-size:15px">Proficient in using  <strong>Python and their libraries and excel for statistical analysis and data manipulation.</strong>:Acquired comprehensive skills in data analysis, including data cleaning, transformation, and visualization to extract meaningful insights from raw data.Experienced in working with large datasets to identify trends, patterns, and outliers, enabling data-driven decision-making. Developed a solid foundation in analyzing various types of data and presenting findings through clear, actionable reports and visualizations.</p></li>
 </ul>
 <h4 style="color:blue">💼 Experience</h4>
 <ul>
