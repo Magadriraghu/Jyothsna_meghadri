@@ -8,7 +8,7 @@
 <ul>
   <li><p style="font-size:15px">Building a <strong>Portfolio Website</strong>: Designing a personal website to showcase my skills, projects, and achievements.</p></li>
   <li><p style="font-size:15px">Developing an <strong>AI Chatbot</strong>: Recently completed a project to create an AI chatbot using Python, APIs, and generative AI techniques.</p></li>
-  <li><p style="font-size:15px">Learning <strong>Azure DevOps</strong>: Enhancing my skills in managing projects, pipelines, and repositories.</p></li>
+  
 </ul>
 
 <h4 style="color:blue">💼 Experience</h4>
@@ -19,10 +19,10 @@
 
 <h4 style="color:blue">🔧 Technologies & Tools</h4>
 <ul>
-  <li><p style="font-size:15px"><strong>Languages</strong>: Python, JavaScript</p></li>
+  <li><p style="font-size:15px"><strong>Languages</strong>: Python</p></li>
   <li><p style="font-size:15px"><strong>AI & Data Science</strong>: Machine Learning, Data Analysis, Generative AI</p></li>
-  <li><p style="font-size:15px"><strong>Web Development</strong>: HTML, CSS, JavaScript</p></li>
-  <li><p style="font-size:15px"><strong>DevOps</strong>: Azure DevOps for project management, pipeline creation, and repository management</p></li>
+  <li><p style="font-size:15px"><strong>Python Libraries</strong>: Pandas,Numpy,Matplotlib,Seaborn</p></li>
+  
 </ul>
 
 <h4 style="color:blue">🤝 Let's Connect</h4>
@@ -30,5 +30,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jyothsna-nageswari-meghadri-734023234/)
 - [Email](mailto:meghadrijyothsnanageswari@gmail.com)
-- [GitHub](https://github.com/your-username)
-
+  
