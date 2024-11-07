@@ -1,6 +1,4 @@
 # HI I AM JYOTHSNA NAGESWARI MEGHADRI
-# HI I AM JYOTHSNA NAGESWARI MEGHADRI
-
 <h3 style="font-family: Arial, sans-serif; color: teal">Hi there, I'm Jyoshna 👋</h3>
 
 <p style="font-size:18px">I'm a passionate Computer Science student specializing in <strong>Artificial Intelligence</strong>, currently in my final year of B.Tech. With hands-on experience in data analysis, AI, and project management, I strive to create impactful projects and develop solutions that bridge the gap between data and decision-making.</p>
