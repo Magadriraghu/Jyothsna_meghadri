@@ -1,65 +1,6 @@
 # HI I AM JYOTHSNA NAGESWARI MEGHADRI
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jyoshna Nageswari Meghadri - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 0 20px;
-        }
-        h3 {
-            color: #008080; /* Teal color for the intro */
-            font-size: 2em;
-        }
-        h4 {
-            color: #0056b3; /* Blue shade for section headers */
-            font-size: 1.5em;
-        }
-        p {
-            font-size: 18px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            background-color: #e7f1ff; /* Light blue background for items */
-            margin: 10px 0;
-            padding: 10px;
-            border-radius: 8px;
-            transition: transform 0.2s;
-        }
-        li:hover {
-            transform: scale(1.02);
-            background-color: #d1e9ff;
-        }
-        strong {
-            color: #00796b; /* Dark teal for key terms */
-        }
-        .contact a {
-            text-decoration: none;
-            color: #0056b3;
-            font-weight: bold;
-            padding: 5px 10px;
-            border: 2px solid #0056b3;
-            border-radius: 8px;
-            margin: 5px;
-            transition: background-color 0.3s, color 0.3s;
-        }
-        .contact a:hover {
-            background-color: #0056b3;
-            color: #fff;
-        }
-    </style>
-</head>
-<body>
+
+  
 
 <h3>Hi there, I'm Jyoshna 👋</h3>
 
